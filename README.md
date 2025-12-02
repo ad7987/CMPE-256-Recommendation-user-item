@@ -92,5 +92,5 @@ Each model generates **Top-20 recommendations** per user and is evaluated using:
 
 ---
 
-## Project Structure
+
 
